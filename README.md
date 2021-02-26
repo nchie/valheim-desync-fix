@@ -1,4 +1,4 @@
-# Valheim desync fix patch
+# Valheim desync fix
 
 Python script to apply patch which fixes the server lag/desyncs. 
 
